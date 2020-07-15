@@ -23,4 +23,4 @@ Following python modules/functions have been used in the project:-
 
 The result is shown below:
 
-<img src='Images'>
+<img src="Images/kmeans_70.JPG">
