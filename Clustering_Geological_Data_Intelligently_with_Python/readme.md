@@ -21,6 +21,3 @@ Following python modules/functions have been used in the project:-
 6. HDBSCAN
 7. Addressing Outliers
 
-The result is shown below:
-
-<img src="Images/kmeans_70.JPG">
