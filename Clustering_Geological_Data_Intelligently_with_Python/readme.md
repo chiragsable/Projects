@@ -20,3 +20,7 @@ Following python modules/functions have been used in the project:-
 5. DBSCAN
 6. HDBSCAN
 7. Addressing Outliers
+
+The result is shown below:
+
+<img src='Images'>
