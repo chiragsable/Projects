@@ -1,7 +1,7 @@
 <h1 align='center'> Visualizing Citibike Trips with Tableau</h1>
 <h4 align='center'>- Chirag Sable</h4><br>
 
-In this project, we will create Citibike data visualizations and then we will be publishing these visualizations into dashboard.
+In this project, we will create Citibike data visualizations with Tableau and then we will be publishing these visualizations into the Tableau dashboard.
 
 <h2>The Project has been divided into 7-tasks:- </h2>
 
