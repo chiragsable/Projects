@@ -17,4 +17,4 @@ In this project, we will create Citibike data visualizations and then we will be
 The citibike data file can be accessed [here](https://drive.google.com/file/d/1G4Sp1rXYas2bSCoRJ6EF6FCW-ImQwxVo/view?usp=sharing)
 
 The Dashboard will look like the following:
-<img src='1.jpg'></img>
+<img src='1.JPG'></img>
