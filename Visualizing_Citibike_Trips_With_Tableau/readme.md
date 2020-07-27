@@ -12,3 +12,9 @@ In this project, we will create Citibike data visualizations and then we will be
 5. Distribution of Common End Stations on Popular Start Stations
 6. Start and Stop Times
 7. Creating a Dashboard
+
+
+The citibike data file can be accessed [here](https://drive.google.com/file/d/1G4Sp1rXYas2bSCoRJ6EF6FCW-ImQwxVo/view?usp=sharing)
+
+The Dashboard will look like the following:
+<img src='1.jpg'></img>
