@@ -1,4 +1,5 @@
-# The Battle of Neighborhoods
+<h1 align='center'> The Battle of Neighborhoods</h1>
+<h4 align='center'>- Chirag Sable</h4><br>
 
 NYC and London are the two most important metro cities and the financial centers of their respective country in the world. So, there is a competition among the cities as in which city is the most perfect city. Also the tourism sector of both these cities’ is very strong. There has been a war for supremacy in terms of quality of life, jobs, education, entertainment and recreational facilities that these cities have to offer to its residents and also for the tourists.
 
